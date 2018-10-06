@@ -1,4 +1,3 @@
-
 mars is red
 mars is flat, maybe not
 Space force!
@@ -7,7 +6,3 @@ Space force!
 <<<<<<< HEAD
 Have you made travel plans to mars yet?
 =======
-
-
-we are playing on Mars now (Marta speaking...)
->>>>>>> 512c88e2b682ab8530d0f6f9c3c9d5d5bca53597
